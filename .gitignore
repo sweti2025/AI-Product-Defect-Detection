@@ -1,0 +1,19 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+.DS_Store
+.streamlit/secrets.toml
+
+# Dataset files
+NEU-DET/
+neu_dataset/
+*.zip
+
+# Temporary files
+temp/
+*.tmp
