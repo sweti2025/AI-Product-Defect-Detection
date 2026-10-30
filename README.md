@@ -18,7 +18,7 @@
 > *An intuitive, interactive Streamlit dashboard providing real-time inference, batch processing, and actionable inspection guidance.*
 
 <p align="center">
-  <img src="dashboard.png" alt="Steel Surface Defect Detection Dashboard Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="Screenshots/dashboard.png" alt="Steel Surface Defect Detection Dashboard Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </p>
 
 ---
