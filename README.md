@@ -23,6 +23,13 @@
 
 ---
 
+## 🎬 Project Demo
+
+- Demo Video: (https://drive.google.com/file/d/1qe6gvU6KvmmeKoZrfggZRe11CZtjc-Gm/view)
+- Presentation PPT: (https://docs.google.com/presentation/d/1QYk12AKfRniX6-VBNPttCQF2ZDUlsEiE/edit)
+
+---
+
 ## 🚀 Project Overview
 
 Industrial quality control in steel manufacturing requires high precision, speed, and reliability. This project implements a transfer learning pipeline using **MobileNetV2** to accurately classify steel surface micro-defects from the benchmark **NEU Surface Defect Database (NEU-DET)**. 
